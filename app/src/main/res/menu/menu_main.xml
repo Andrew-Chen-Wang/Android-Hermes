@@ -1,0 +1,17 @@
+<!--
+  ~ Copyright (c) Ur LLC and Andrew Chen Wang
+  ~
+  ~ This source code is licensed under the Apache 2.0 license found in
+  ~ the LICENSE file in the root directory of this source tree.
+  -->
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="earth.urth.hermes.MainActivity">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+</menu>
